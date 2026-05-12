@@ -1,0 +1,3 @@
+TODOS ate ao i que sao de TUPLOS!!!!!!!
++ remove duplicates
+FAZER MASTERMIND

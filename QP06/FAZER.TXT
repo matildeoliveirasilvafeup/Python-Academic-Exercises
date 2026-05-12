@@ -1,0 +1,3 @@
+exercise1 -> passar de keys para values
+ex3
+ex4

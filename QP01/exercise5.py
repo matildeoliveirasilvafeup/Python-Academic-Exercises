@@ -1,0 +1,6 @@
+money_p = int(input())
+interest_rate = float(input())
+frequency_n = int(input())
+conta = money_p * ( 1 + interest_rate / frequency_n)** (frequency_n * 2)
+final_amount = round(conta,3)
+print(final_amount)

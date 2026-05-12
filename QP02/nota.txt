@@ -1,0 +1,4 @@
+FAZER DE NOVO:
+-> exercise 2 das horas
+-> exercicio 3 de reverse mas sem concatencao
+-> exercicio 5 de reverse numeros imprimir

@@ -1,0 +1,3 @@
+- exercicio camel case (DIFICIL) importante para ver FLAGS
+- exercicio mask (fiz quse tudo sozinha)
+- exercicio deriv (é facil mas é estranho)
