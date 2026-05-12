@@ -1,6 +1,5 @@
 # Python-Academic-Exercises
 Repository for practicing Python programming.
-# Python Course Exercises
 
 Collection of exercises, quizzes, notebooks, and small projects developed during my Python programming course.
 
